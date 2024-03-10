@@ -1,0 +1,28 @@
+@media (min-width: 768px){
+.d-md-flex {
+    display: flex !important;
+    }
+}
+
+
+@media (max-width: 768px){
+    .search-btn{
+        display: block!important;
+    }
+}
+
+
+@media (max-width: 425px){
+    .nk-sidebar {
+        width: 00px;
+        /* display: none; */
+    }
+
+    .layout-content-body{
+        margin-left: 0px;
+    }
+
+    .brand{
+        display: none;
+    }
+}
